@@ -1,4 +1,4 @@
-# 📚 Student Performance MLOps Pipeline (Local, No Cloud)
+# 📚 Student Performance MLOps Pipeline ()
 
 End-to-end pipeline predicting a student's final grade class (A–F) using demographic and academic features.
 
